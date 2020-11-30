@@ -4,7 +4,7 @@
 ## project description: prototype website for GLIF
 
 - ER diagram
-![ER diagram](./model/ER_diagram.jpg)
+![ER Diagram](./model/ER_Diagram.jpg)
 
 - Relational Data Model
-![ER diagram](./model/Relational_Data_Model.jpg)
+![Relational Data Model](./model/Relational_Data_Model.jpg)
